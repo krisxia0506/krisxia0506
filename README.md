@@ -181,13 +181,3 @@
 [![Website](https://img.shields.io/badge/Blog-xiajiayi.com-2F4F4F?style=flat-square)](https://blog.xiajiayi.com)  
 [![Email](https://img.shields.io/badge/Email-xiajiayi0506@gmail.com-0078D4?style=flat-square)](mailto:xiajiayi0506@gmail.com)  
 
----
-
-### 📈 GitHub Stats
-[![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisxia0506&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<div align="center">
-  <sub>Badges by <a href="https://shields.io/">Shields.io</a> • Stats by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></sub>
-</div>

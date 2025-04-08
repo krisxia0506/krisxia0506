@@ -144,9 +144,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="70" height="70"/> 
   </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> 
-  </a> 
+  </a>  -->
   <a href="hexo.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="70" height="70"/> 
   </a> 

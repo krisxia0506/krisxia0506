@@ -15,12 +15,32 @@
 ---
 
 ### 🚀 Featured Projects
-#### 🔹 [APIS Project](https://github.com/krisxia0506)
-- **Backend**: SpringBoot2 + Mybatis + Druid, supports real-time electricity data, user authentication.
-- **Mini Program**: Built with **echarts-for-weixin**  
-  - ⚡ Real-time electricity monitoring.  
-  - 📊 Historical data visualization (7-day usage & trends).  
-  - 🔐 WeChat-based login system.  
+#### 🔹 [Bilibili Watcher](https://github.com/krisxia0506/bilibili-watcher)
+**Tech Stack:** Go (Gin + GORM) + MySQL + Remix + TailwindCSS + Shadcn UI  
+
+- 📊 Visualized statistics of video watch time  
+- 🔄 Auto-sync of Bilibili watch progress  
+- 🌙 Light/Dark mode toggle  
+- 📱 Responsive design for both desktop and mobile  
+- 🔒 Self-hosted for full data control  
+
+
+#### 🔹 [Miko News](https://github.com/krisxia0506/MikoNews)
+**Tech Stack:** Go (Gin)  
+
+- 📰 Feishu bot app for community news submission & distribution  
+- 🤖 Accepts user submissions via private chat  
+- 🔁 Automatically forwards content to a designated Feishu group  
+- 🗃 Archives all submissions into a database for backup  
+
+
+#### 🔹 [APIS Project](https://github.com/krisxia0506/APIS-WeChat-mini-program)
+**Backend:** Spring Boot 2 + MyBatis + Druid  
+**WeChat Mini Program:** Built with `echarts-for-weixin`  
+
+- ⚡ Real-time electricity monitoring  
+- 📊 Historical data visualization (7-day usage & trends)  
+- 🔐 WeChat-based login system  
 
 #### 🔹 Open Source Contribution
 - **Zadig**: Fixed pagination issue in `codehost/:codehostId/tags` API. ([PR #4050](https://github.com/koderover/zadig/pull/4050))
